@@ -1,1 +1,2 @@
-# classic-case
+# Classic Case Design
+*from digiminer.pl*
